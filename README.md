@@ -54,7 +54,6 @@ npm i
 
 npm run dev
 ```
-
 You should be good to go!
 
 # Application Images
